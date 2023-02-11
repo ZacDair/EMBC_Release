@@ -1,5 +1,11 @@
 # EMBC - Stress Detection Challenge
 
+## The resulting publication can be found on Arxiv  
+"Classification of Stress via Ambulatory ECG and GSR Data", by Zachary Dair, Muhammad Muneeb Saad, Urja Pawar, Samantha Dockray, Ruairi O'Reilly  
+[Arxiv preprint available](https://arxiv.org/abs/2208.04705)  
+Awaiting inclusion in the book associated with this challenge organised by the Compwell Group.  
+
+## Getting Started  
 **Steps to run the optimal approach:**
  1. download the SMILE dataset
  2. Place the .npy file in the Data folder
