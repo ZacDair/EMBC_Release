@@ -3,7 +3,7 @@
 ## The resulting publication can be found on Arxiv  
 Title: "Classification of Stress via Ambulatory ECG and GSR Data",  
 Authors: Zachary Dair, Muhammad Muneeb Saad, Urja Pawar, Samantha Dockray, Ruairi O'Reilly  
-[Arxiv preprint available](https://arxiv.org/abs/2208.04705)*Awaiting inclusion in the book associated with this challenge organised by the Compwell Group.*
+[Arxiv preprint available](https://arxiv.org/abs/2208.04705) *Awaiting inclusion in the book associated with this challenge organised by the Compwell Group.*
 
 
 ## Getting Started  
