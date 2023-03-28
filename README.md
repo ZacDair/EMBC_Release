@@ -94,3 +94,13 @@ Modules - utility.py - contains several helper functions:
 - Getting all features from a dataset split - including maskings (not returned but can be added to the returned dict)
 - Unique value count from numpy array - similar to pandas.DataFrame.value_counts()
 - Converting features from a numpy array (x, 60, 8) into (x, 60*8) - waiting on response to ensure this is valid, premise seems to be that we have 2070 data samples, which each have 60 arrays containing the features.
+
+# Citing
+@article{dair2022classification,
+      title={Classification of Stress via Ambulatory ECG and GSR Data}, 
+      author={Zachary Dair and Muhammad Muneeb Saad and Urja Pawar and Samantha Dockray and Ruairi O'Reilly},
+      year={2022},
+      eprint={2208.04705},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
